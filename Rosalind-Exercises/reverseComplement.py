@@ -12,4 +12,4 @@ def reverse_complement_DNA(dna_sequence: str) -> str:
 
     return "".join([complement[n] for n in dna_sequence.upper()])[::-1]
 
-print(reverse_complement_DNA(input()))
+reverse_complement_DNA(input())
