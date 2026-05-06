@@ -22,6 +22,7 @@ The aim is to build a solid, practical understanding of how biological mechanism
 * Python and R for data analysis
 * Sequence analysis (alignment, similarity search)
 * Protein structure analysis and visualization
+* Constraint-based metabolic modeling (COBRApy)
 * Data visualization and machine learning applied to biology
 * Statistical analysis of biological data
 
@@ -34,6 +35,7 @@ The aim is to build a solid, practical understanding of how biological mechanism
 * Structural analysis of binding pockets in amino acid transporters
 * Identification of key residues influencing substrate specificity
 * Comparative analysis between homologous proteins
+* Integration with constraint-based metabolic modeling (COBRApy)
 * Goal: contribute to the development of predictive models for substrate recognition
 
 ### 🔹 Rosalind Exercises
